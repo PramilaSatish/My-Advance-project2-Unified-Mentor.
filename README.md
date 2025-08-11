@@ -21,4 +21,4 @@ GYM PRATISH
   SCREENSHOTS :-
   <img width="816" height="619" alt="2025-08-11" src="https://github.com/user-attachments/assets/9c6d2b01-3600-4e3e-9eed-bdb0c35f9924" />
 <img width="1120" height="615" alt="2025-08-11 (2)" src="https://github.com/user-attachments/assets/b4424301-f221-49a2-9336-4c0df5ceb2f9" />
-<img width="1114" height="594" alt="2025-08-11 (1)" src="https://github.com/user-attachments/assets/d11c6bc7-ad21-4289-83ae-e2ae8c66569f" />
+<img width="1366" height="616" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/0919fb1d-b0fd-46e2-99ae-a97dadc4d80c" />
