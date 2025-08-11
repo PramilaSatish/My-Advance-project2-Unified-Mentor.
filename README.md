@@ -24,4 +24,4 @@ GYM PRATISH
 <img width="1366" height="616" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/0919fb1d-b0fd-46e2-99ae-a97dadc4d80c" />
 
 LINK:- 
-https://6000-firebase-studio-1754631363960.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev/
+https://6000-firebase-studio-1754893139985.cluster-wurh6gchdjcjmwrw2tqtufvhss.cloudworkstations.dev/
